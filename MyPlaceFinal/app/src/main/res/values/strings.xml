@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">My Place</string>
+
+    <!-- broadcast map -->
+    <string name="map_broadcast">broadcast chosen latlng</string>
+
+    <!-- offline errors -->
+    <string name="offline_message">You are offline. Some functionality may not be available.</string>
+    <string name="failed">Something Went Wrong. Check your internet connection and try again</string>
+
+    <!-- frag search -->
+    <string name="hint_edit_text">Search for...</string>
+
+    <!-- menu -->
+    <string name="menu_item_delete">Delete Favourites</string>
+    <string name="menu_item_settings">Settings</string>
+
+    <!-- dialog -->
+    <string name="dialog_fav_message">You can share or save this place</string>
+    <string name="dialog_fav_title">Choose Your Path!</string>
+    <string name="share_fav">Sharing is caring</string>
+    <string name="save_fav">Add to favourites</string>
+
+    <string name="share_header">Sharing a fantastic spot with you: </string>
+    <string name="share_title">\n\n Name: \n</string>
+    <string name="share_body_address">\n\nAddress: \n</string>
+    <string name="share_latlng">\n\nAnd more specifically, for meytivey lekhet: \n</string>
+    <string name="saved_fav">Saved Successfully to Favourites!</string>
+    <string name="favs_null">There are no places in your favourites list yet</string>
+
+    <string name="progress_dialog_message">Please wait while loading results</string>
+    <string name="progress_dialog_title">Loading</string>
+    <!-- list item -->
+    <string name="list_item_distance">Distance:</string>
+
+    <!-- settings -->
+    <string name="distance_header">Choose Distance Units</string>
+    <string name="distance_sumary">Km or Miles</string>
+
+    <string name="radius_header">Search Radius</string>
+    <string name="radius_summary">Only Kilometers or Miles</string>
+    <string name="radius_hint">Enter your choice</string>
+    <string name="radius_current">Current radius:</string>
+
+    <string-array name="distance_units">
+        <item>Kilometer (km)</item>
+        <item>Mile (mi)</item>
+    </string-array>
+
+    <string-array name="distance_units_values">
+        <item>km</item>
+        <item>miles</item>
+    </string-array>
+
+</resources>
